@@ -161,11 +161,11 @@
 
 1. 具体实现
     jupyter noebook脚本截图：
-    ![XMLHttpRequest-jupyter截图](https://raw.githubusercontent.com/opwtryl/photos/master/xhr_jupyter_190112.png)
+    ![XMLHttpRequest-jupyter截图](https://raw.githubusercontent.com/opwtryl/photos/master/XMLHttpRequest/xhr_jupyter_190112.png)
 
     Chrome开发者工具network截图：
-    ![XHR-network](https://raw.githubusercontent.com/opwtryl/photos/master/xhr_network_190112.png)
-    ![XHR-headers](https://raw.githubusercontent.com/opwtryl/photos/master/xhr_headers_190112.png)
+    ![XHR-network](https://raw.githubusercontent.com/opwtryl/photos/master/XMLHttpRequest/xhr_network_190112.png)
+    ![XHR-headers](https://raw.githubusercontent.com/opwtryl/photos/master/XMLHttpRequest/xhr_headers_190112.png)
 
     图2红框里的XMLHttpRequest就是通过图1里的脚本完成的。
 
