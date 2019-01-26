@@ -35,6 +35,7 @@ auth|身份验证
 ### 3.headers
 
 [详细资料：MDN HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
 参数 | 含义
 ---------|----------
  Accept | 接受的响应媒体类型
@@ -53,6 +54,7 @@ auth|身份验证
 ### 4.cookies
 
 [详细资料：MDN HTTP Set-Cookie](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Set-Cookie)
+
 参数 | 含义
 ---------|----------
 Name | 要创建或覆盖的cookie的名字  
