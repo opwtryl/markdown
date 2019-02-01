@@ -585,3 +585,4 @@ list(tree.execute('$..book[@.isbn is not None]'))
 
 # 价格低于10的书
 list(tree.execute('$..book[@.price<10]'))
+```
