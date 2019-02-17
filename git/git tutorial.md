@@ -13,6 +13,7 @@ git 官方文档：https://git-scm.com/doc
 #### 1、工作区（Working Directory）、暂存区（Stage）、版本库（Repository）
 
 ![工作区&暂存区&版本库](https://raw.githubusercontent.com/opwtryl/photos/master/git/%E5%B7%A5%E4%BD%9C%E5%8C%BA%26%E6%9A%82%E5%AD%98%E5%8C%BA%26%E7%89%88%E6%9C%AC%E5%BA%93.jpg)
+
 (图片来源：https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013745374151782eb658c5a5ca454eaa451661275886c6000)
 
 工作区即电脑上的文件夹。
@@ -22,6 +23,7 @@ git 官方文档：https://git-scm.com/doc
 #### 2、文件状态
 
 ![文件状态](https://github.com/opwtryl/photos/blob/master/git/lifecycle.png?raw=true)
+
 （图片来源：https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository）
 
 untracked 表示 文件是新建的，从未添加到暂存区（版本库里当然也没有）。相反，tracked表示版本库里面有文件的记录。
@@ -145,6 +147,7 @@ git cherry-pick ：调整commit顺序
 #### 远程仓库
 
 ![远程仓库](https://github.com/opwtryl/photos/blob/master/git/remote%20repository.jpg?raw=true)
+
 (图片来源：http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
 ##### git remote
