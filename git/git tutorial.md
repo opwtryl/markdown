@@ -127,7 +127,7 @@ git checkout \<commit> ：分离的HEAD，HEAD由指向分支（如 master），
 
 git checkout master^: master^ 表示 master的第一个父节点，master^^ 表示第一个父节点的第一个父节点，master^2 表示 master 的第二个父节点，注意区别。
 
-git checkout master~：master\~  表示master的第一个父节点，master~2 相当于 master^^ ,master^^^ 相当于 master~3，以此类推。 ~ 和 ^ 可以链式操作，如 master^2~2 表示 master的第二个父节点的第一个父节点的第一个父节点。
+git checkout master~：master\~  表示master的第一个父节点，master\~2 相当于 master^^ ,master^^^ 相当于 master\~3，以此类推。 ~ 和 ^ 可以链式操作，如 master^2~2 表示 master的第二个父节点的第一个父节点的第一个父节点。
 
 ##### git merge
 
